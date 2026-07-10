@@ -10,7 +10,9 @@ sales_data = [
 {"product": "Книга 'Алгоритми'", "category": "Книги",
 "quantity": 1, "price": 900},
 {"product": "Ноутбук", "category": "Електроніка",
-"quantity": 1, "price": 32000}
+"quantity": 1, "price": 32000},
+{"product": "Клавіатура","category": "Електроніка",
+"quantity": 3,"price": 750}
 ]
 
 
